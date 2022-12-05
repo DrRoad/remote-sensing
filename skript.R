@@ -1,7 +1,7 @@
 #### Install packages ####
 # install.packages("terra")
 
-#### Acticate packages ####
+#### Activate packages ####
 library(terra) # Spatial Data Analysis
 
 #### Import raster files ####
